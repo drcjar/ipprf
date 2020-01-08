@@ -15,10 +15,15 @@ research gaps can be identified by:
 
 ## avoid sequential plans
 
-## plays my skillset / data and collaborations already have
+## plays to my skillset / data and collaborations already have
 
 -- occupational lung disease
 -- ipf
 -- dna & serum & occupational histories
+-- I can program
 
 ## potential bill and mirium collaboration + bioinformatics person
+
+## ideas arising from thesis
+
+Planned future work includes further study of non-asbestos occupational exposures in IPF, augmentation of the study data with pulmonary function test measurements, a mendelian randomisation study of smoking in IPF, and antibody characterisation of serum collected from participants with a view to investigating the possibility of chronic hypersensitivity pneumonitis IPF misclassification.
