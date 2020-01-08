@@ -33,6 +33,9 @@ Planned future work includes further study of non-asbestos occupational exposure
 - review of occupational exposures in ipf, shortcomings of previous work
 - ipfjes 
 1. have found asbestos alone is not a risk factor for IPF and no evidence of GE with muc5b
+
+## what I've also found
+
 2. have also found: 
 - some cases (and controls) have heavy exposures 
 - asbestos + smoking is associated with ipf (effect confined to those with 1 or more muc5b disease allele)
