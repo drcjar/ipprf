@@ -48,4 +48,8 @@ Planned future work includes further study of non-asbestos occupational exposure
 - otehr exposures in ipf given is signal for stone, metal, wood. need to measure better.
 - something on chp misclassification
 
+## other stuff
+
+- https://www.bristol.ac.uk/integrative-epidemiology/faciliitiesresources/software/
+
 
