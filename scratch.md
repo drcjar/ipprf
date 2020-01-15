@@ -52,5 +52,5 @@ Planned future work includes further study of non-asbestos occupational exposure
 
 - https://www.bristol.ac.uk/integrative-epidemiology/faciliitiesresources/software/
 - https://www.nature.com/articles/s41467-019-11968-2 (gerd snps)
-
+- something on paradox of protective effect of sterility in mouse model bleomycin fibrosis && observation that biggest risk factor for IPF, muc5b, associated with lower bacterial load.
 
