@@ -54,6 +54,8 @@ Planned future work includes further study of non-asbestos occupational exposure
 - https://www.nature.com/articles/s41467-019-11968-2 (gerd snps)
 - something on paradox of protective effect of sterility in mouse model bleomycin fibrosis && observation that biggest risk factor for IPF, muc5b, associated with lower bacterial load. Lung Microbiota Contribute to Pulmonary Inflammation and Disease Progression in Pulmonary Fibrosis https://www.atsjournals.org/doi/10.1164/rccm.201809-1650OC | IPF patients have higher bacterial burden https://www.atsjournals.org/doi/full/10.1164/rccm.201403-0541OC | MUC5b is biggest risk factor genetic or otherwise for IPF but patients possessing a minor allele have a lower bacterial burden (maybe).
 
+![bacterial burden by genotype](https://github.com/drcjar/ipprf/blob/master/Screenshot_2020-01-15%20molyneaux_data_supplement%20pdf.png)
+
 
 
 
