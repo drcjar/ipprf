@@ -42,7 +42,7 @@ Planned future work includes further study of non-asbestos occupational exposure
 - associations with stone, metal, wood
 
 ## it would be interesting, important, achievable to know:
-- is smoking really a risk for ipf (MR study); snps assoc with heavier smoking exposure (insturmental variables) are randomly dist; can use to overcome residual confouding and establish more accurate relationship between smoking and ipf
+- is smoking really a risk for ipf (MR study); snps assoc with heavier smoking exposure (insturmental variables) e.g https://www.snpedia.com/index.php/Rs16969968  are randomly dist; can use to overcome residual confouding and establish more accurate relationship between smoking and ipf
 - IV measured smoking might also enable better understanding / char of interaction with asbestos exposure in ipf
 - ??other genetic factors in ipf and occupational interactions
 - otehr exposures in ipf given is signal for stone, metal, wood. need to measure better.
