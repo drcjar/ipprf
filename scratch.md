@@ -51,5 +51,6 @@ Planned future work includes further study of non-asbestos occupational exposure
 ## other stuff
 
 - https://www.bristol.ac.uk/integrative-epidemiology/faciliitiesresources/software/
+- https://www.nature.com/articles/s41467-019-11968-2 (gerd snps)
 
 
