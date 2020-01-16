@@ -46,6 +46,7 @@ Planned future work includes further study of non-asbestos occupational exposure
 - IV measured smoking might also enable better understanding / char of interaction with asbestos exposure in ipf
 - ??other genetic factors in ipf and occupational interactions
 - otehr exposures in ipf given is signal for stone, metal, wood. need to measure better.
+- ? use MR to look at Iron in IPF https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6586257/
 - something on chp misclassification
 
 ## other stuff
