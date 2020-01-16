@@ -14,6 +14,7 @@
 ## what I'd like to do 
 
 - **bring new methods to occupational lung disease research** such as:
+
 -- explore doing mendelian randomisation (MR) studies in IPF e.g smoking https://www.snpedia.com/index.php/Rs16969968, iron https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6586257/, GORD https://www.nature.com/articles/s41467-019-11968-2
 -- triangulation is valuable in aetiological epidemiology; MR can augment case-control studies; not yet used in occupational epidemiology
 -- we can use IPFJES exposure histories and DNA together with our expertise and collaborations to get off the ground
