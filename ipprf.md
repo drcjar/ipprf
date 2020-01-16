@@ -11,9 +11,7 @@
 - asbestos exposure is associated with dyspnoea
 - associations with stone, metal, wood
 
-## what I'd like to do 
-
-- **bring new methods to occupational lung disease research** such as:
+## what I'd like to do next: bringing new methods to occupational lung disease research
 
 - explore doing mendelian randomisation (MR) studies in IPF e.g smoking https://www.snpedia.com/index.php/Rs16969968, iron https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6586257/, GORD https://www.nature.com/articles/s41467-019-11968-2
 - triangulation is valuable in aetiological epidemiology; MR can augment case-control studies; not yet used in occupational epidemiology
