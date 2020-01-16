@@ -62,6 +62,8 @@ Muc5b overexpression causes mucociliary dysfunction and enhances lung fibrosis i
  
  IPF patients have a higher bacterial burden https://www.atsjournals.org/doi/full/10.1164/rccm.201403-0541OC 
  
+ increased proportions of AMs lacking surface CD71 (the transferrinreceptor) in human patients with IPF
+ 
  ??? muc5b snp assoc with prolonged survival.
  
  ??? patients possessing a minor allele have a lower bacterial burden.
