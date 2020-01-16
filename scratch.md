@@ -2,6 +2,12 @@
 
 ## need to check out intermediate fellowship awards and cross-correlate with 'research gaps'
 
+ - wellcome funding
+ - nihr funding
+ - mrc funding
+ - 100,000 genome projects 
+ - etc
+ 
 research gaps can be identified by:
 
 - cochrane reviews, other systematic reviews
