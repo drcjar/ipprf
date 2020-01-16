@@ -68,6 +68,8 @@ Muc5b overexpression causes mucociliary dysfunction and enhances lung fibrosis i
  ??? muc5b snp assoc with prolonged survival.
  
  ??? patients possessing a minor allele have a lower bacterial burden.
+ 
+ ??? viruses https://www.sciencedirect.com/science/article/pii/S001236921934200X
 
 ![bacterial burden by genotype](https://github.com/drcjar/ipprf/blob/master/Screenshot_2020-01-15%20molyneaux_data_supplement%20pdf.png)
 
