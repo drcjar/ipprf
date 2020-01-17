@@ -77,7 +77,9 @@ Muc5b overexpression causes mucociliary dysfunction and enhances lung fibrosis i
  
  ??? viruses https://www.sciencedirect.com/science/article/pii/S001236921934200X
  
- Nalp3 inflammasome seems important; it's activated by asbestos (and silica) and it makes IL-1B which is the main stimulus for MUC5b expression (and MUC5b expression is much higher in IPF). It's also implicated in Hep C susceptibiltiy https://www.ncbi.nlm.nih.gov/pubmed/30728751?dopt=Abstract and Hep C has been associated with IPF... 
+ Nalp3 inflammasome seems important; it's activated by asbestos (and silica) (and variants influence susceptibility https://www.ncbi.nlm.nih.gov/pubmed/24142982 e.g https://www.snpedia.com/index.php/Rs35829419) and it makes IL-1B which is the main stimulus for MUC5b expression (and MUC5b expression is much higher in IPF). It's also implicated in Hep C susceptibiltiy https://www.ncbi.nlm.nih.gov/pubmed/30728751?dopt=Abstract and Hep C has been associated with IPF... 
+ 
+good article on https://www.tandfonline.com/doi/full/10.1080/10408444.2019.1692779
 
 ![bacterial burden by genotype](https://github.com/drcjar/ipprf/blob/master/Screenshot_2020-01-15%20molyneaux_data_supplement%20pdf.png)
 
