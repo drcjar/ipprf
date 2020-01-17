@@ -76,6 +76,8 @@ Muc5b overexpression causes mucociliary dysfunction and enhances lung fibrosis i
  ??? patients possessing a minor allele have a lower bacterial burden.
  
  ??? viruses https://www.sciencedirect.com/science/article/pii/S001236921934200X
+ 
+ Nalp3 inflammasome seems important; it's activated by asbestos (and silica) and it makes IL-1B which is the main stimulus for MUC5b expression (and MUC5b expression is much higher in IPF). It's also implicated in Hep C susceptibiltiy https://www.ncbi.nlm.nih.gov/pubmed/30728751?dopt=Abstract and Hep C has been associated with IPF... 
 
 ![bacterial burden by genotype](https://github.com/drcjar/ipprf/blob/master/Screenshot_2020-01-15%20molyneaux_data_supplement%20pdf.png)
 
