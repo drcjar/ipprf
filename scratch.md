@@ -59,7 +59,8 @@ Planned future work includes further study of non-asbestos occupational exposure
 
 - https://www.bristol.ac.uk/integrative-epidemiology/faciliitiesresources/software/
 - https://www.nature.com/articles/s41467-019-11968-2 (gerd snps)
-- 
+- GSE72073, GSE53845, GSE35145 - gene expression data in ipf
+
 
 MUC5b promotor snp is biggest risk factor genetic or otherwise for IPF. Its associated with increased MUC5b expression.
 
