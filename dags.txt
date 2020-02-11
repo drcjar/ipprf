@@ -1,0 +1,44 @@
+# dag code
+
+## IPF_Smoking_MR_Study.png
+
+dag {
+"Being a construction worker" [pos="-0.235,-1.251"]
+"Instrumental variables e.g CHRNA5 SNP" [pos="-1.434,-0.549"]
+IPF [pos="0.236,-0.549"]
+Smoking [pos="-0.686,-0.549"]
+"Being a construction worker" -> IPF
+"Being a construction worker" -> Smoking
+"Instrumental variables e.g CHRNA5 SNP" -> Smoking
+Smoking -> IPF
+}
+
+
+dag {
+"IL-1beta" [pos="-0.197,-0.129"]
+"MUC5b promotor rs35705950" [pos="0.444,-0.594"]
+"NLRP3 inflammasome" [pos="-0.798,-0.127"]
+"NLRP3 instruments e.g rs35829419 (associated with risk of asbestosis)" [pos="-0.785,0.293"]
+"RA-ILD" [pos="1.506,0.066"]
+"Smoking instruments e.g rs16969968" [pos="-0.768,-0.594"]
+"asbestos, silica" [pos="-1.488,-0.131"]
+Asbestosis [pos="1.524,-0.544"]
+IPF [pos="1.511,0.356"]
+MUC5b [pos="0.450,-0.129"]
+Silicosis [pos="1.511,-0.244"]
+Smoking [pos="-0.474,-0.347"]
+UIP [pos="1.018,-0.135"]
+"IL-1beta" -> MUC5b
+"MUC5b promotor rs35705950" -> MUC5b
+"NLRP3 inflammasome" -> "IL-1beta"
+"NLRP3 instruments e.g rs35829419 (associated with risk of asbestosis)" -> "NLRP3 inflammasome"
+"Smoking instruments e.g rs16969968" -> Smoking
+"asbestos, silica" -> "NLRP3 inflammasome"
+MUC5b -> UIP
+Smoking -> "IL-1beta"
+UIP -> "RA-ILD"
+UIP -> Asbestosis
+UIP -> IPF
+UIP -> Silicosis
+}
+
